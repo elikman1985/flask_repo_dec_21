@@ -11,4 +11,4 @@ def get_bitcoin_rate():
     return currency_calc(cur)
 
 
-app.run(debug=True, port=8000)
+app.run(debug=True, port=8080)
